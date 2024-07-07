@@ -1,13 +1,13 @@
 <H1>Takım İsmi</H1>
 <H2>Flutter 66</H2>
 
-<H3>Ekip ve Ürün Hakkında Bilgiler</H3>
-<H4>Takım Elemanları</H4>
+<H1>Ekip ve Ürün Hakkında Bilgiler</H1>
+<H3>Takım Elemanları</H3>
 
-<H5>Ceren Efe: Product Owner,Developer </H5>
-<H5>Medya Doran: Scrum Master,Developer</H5>
-<H5>Melisa Sadioğlu: Designer,Developer</H5>
-<H5>Hasip Tekin: Developer</H5>
+<H4>Ceren Efe: Product Owner,Developer </H4>
+<H4>Medya Doran: Scrum Master,Developer</H4>
+<H4>Melisa Sadioğlu: Designer,Developer</H4>
+<H4>Hasip Tekin: Developer</H4>
 
 
 <H2>Ürün İsmi</H2>
