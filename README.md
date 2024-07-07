@@ -8,6 +8,66 @@ Ceren Efe : Product Owner , Developer <br>
 Medya Doran : Scrum Master , Developer <br>
 Melisa Sadioğlu : Designer , Developer <br>
 Hasip Tekin : Marketing , Developer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Members</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Title</th>
+                <th>Socials</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="https://via.placeholder.com/50" alt="Burak Taha Cevheroğlu"><span>Burak Taha Cevheroğlu</span></td>
+                <td>Scrum Master</td>
+                <td>
+                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+                    <a href="https://instagram.com" target="_blank"><img src="https://via.placeholder.com/20" alt="Instagram"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="https://via.placeholder.com/50" alt="Arda Demirel"><span>Arda Demirel</span></td>
+                <td>Product Owner</td>
+                <td>
+                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="https://via.placeholder.com/50" alt="Dila Hazal Bilgin"><span>Dila Hazal Bilgin</span></td>
+                <td>Developer</td>
+                <td>
+                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="https://via.placeholder.com/50" alt="Merve Ağaçayak"><span>Merve Ağaçayak</span></td>
+                <td>Developer</td>
+                <td>
+                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+                </td>
+            </tr>
+            <tr>
+                <td><img src="https://via.placeholder.com/50" alt="Onur Konuk"><span>Onur Konuk</span></td>
+                <td>Developer</td>
+                <td>
+                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
+                    <a href="https://instagram.com" target="_blank"><img src="https://via.placeholder.com/20" alt="Instagram"></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
 
 
 <H1>Ürün İsmi</H1>
