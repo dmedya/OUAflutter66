@@ -1,6 +1,6 @@
 
 <H1>Takım İsmi</H1>
-<H4>Flutter 66 text-shadow: 2px 2px 4px #000000;</H4>
+<H4>Flutter 66 </H4>
 
 <H1>Ekip ve Ürün Hakkında Bilgiler</H1>
 <!DOCTYPE html>
@@ -42,10 +42,10 @@
                 </td>
             </tr>
             <tr>
-                <td><img src="" width="50" height="50"><span>Hasip Tekin</span></td>
+                <td><img src="hsptkn.jpeg" width="50" height="50"><span>Hasip Tekin</span></td>
                 <td>Marketing , Developer</td>
                 <td>
-                    <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
+                    <a href="https://www.linkedin.com/in/hasip-tekin" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
         </tbody>
