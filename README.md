@@ -4,7 +4,7 @@
 <H3>Ekip ve Ürün Hakkında Bilgiler</H3>
 <H2>Takım Elemanları</H2>
 
-<H1>Ceren Efe: Product Owner,Developer </H1>
+<H4>Ceren Efe: Product Owner,Developer </H4>
 <H1>Medya Dora: Scrum Master,Developer</H1>
 <H1>Melisa Sadioğlu: Designer,Developer</H1>
 <H1>Hasip Tekin: Developer</H1>
