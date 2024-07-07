@@ -102,7 +102,7 @@ Firebase veya benzeri bir arka uç hizmeti entegrasyonu <br>
 Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi <br>
 Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması <br>
   
-<h2></h1>Kullanıcı Giriş Sistemi Geliştirme</h2>
+<h2>Kullanıcı Giriş Sistemi Geliştirme</h2>
 Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi <br>
 Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması <br>
 Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple) <br>
