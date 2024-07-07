@@ -81,3 +81,7 @@ Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İ
 Şu anda, uygulamanın geri kalan önemli bölümleri üzerinde yoğun bir şekilde çalışılmaktadır. Özellikle, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası yapılma aşamasındadır. Bu sayfalar tamamlandığında, kullanıcılar uygulamaya güvenli bir şekilde giriş yapabilecek ve yeni hesap oluşturabileceklerdir.
 
 Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğiz.
+<img src="polovoyahome1.png" width="300" height="300">
+<img src="polovoyahome2.png" width="300" height="300">
+<img src="polovoyalogin.png" width="300" height="300">
+<img src="polovoyaregister.png" width="300" height="300">
