@@ -24,49 +24,48 @@ Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda
 
 <H1>Hedef Kitle</H1>
 <H2>Dil öğrenenler: </H2>
-<h4>Yabancı bir dilde pratik yapmak isteyenler.
-Yerel kültürü doğrudan deneyimlemek isteyenler.
-Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. </h4>
+Yabancı bir dilde pratik yapmak isteyenler. <br>
+Yerel kültürü doğrudan deneyimlemek isteyenler. <br>
+Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. <br>
 
 <H2>Rehberler: </H2>
-<h4>Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. 
-Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. 
-Farklı kültürleri ve insanları tanımak isteyenler.
-Proje Yapılandırması ve Gereksinim Tanımlaması</h4>
+Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. <br>
+Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. <br>
+Farklı kültürleri ve insanları tanımak isteyenler. <br>
+Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
 <H1>Sprint Notes</H1>
 <a href="#"><img src="planning.jpeg"</a>
 <h1></h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h1>
-<H4>Proje gereksinimlerini ve yapılandırmasını belirleme
-Geliştirme ortamının kurulumu
-Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)</h4>
+Proje gereksinimlerini ve yapılandırmasını belirleme <br>
+Geliştirme ortamının kurulumu <br>
+Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.) <br>
   
 <h1>Kullanıcı Arayüzü Tasarımı</h1>
-<H4>Giriş ve kayıt ekranlarının tasarlanması
-UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması
-<h4>Tasarımların onaylanması</h4>
+Giriş ve kayıt ekranlarının tasarlanması <br>
+UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması <br>
+Tasarımların onaylanması <br>
   
 </h1>Kullanıcı Kayıt Sistemi Geliştirme</h1>
-<H4>Firebase veya benzeri bir arka uç hizmeti entegrasyonu
-</h4>Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi
-</h4>Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması</h4>
+Firebase veya benzeri bir arka uç hizmeti entegrasyonu <br>
+Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi <br>
+Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması <br>
   
 <h1></h1>Kullanıcı Giriş Sistemi Geliştirme</h1>
-<H4>Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi
-Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması
-Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple)</H4>
+Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi <br>
+Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması <br>
+Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple) <br>
   
 <h1>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h1>
-<H4>Arayüz ve arka uç arasında veri alışverişinin sağlanması
-Kullanıcı kayıt ve giriş süreçlerinin test edilmesi
-Hataların düzeltilmesi ve iyileştirmelerin yapılması</h4>
+Arayüz ve arka uç arasında veri alışverişinin sağlanması <br>
+Kullanıcı kayıt ve giriş süreçlerinin test edilmesi <br>
+Hataların düzeltilmesi ve iyileştirmelerin yapılması <br>
   
 <h1>Testler ve Sprint İncelemesi</h1>
-
-<H4>Fonksiyonel testlerin yapılması
-Kullanıcı geri bildirimlerinin toplanması
-Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi
-Bir sonraki sprint için plan yapılması</h4>
+Fonksiyonel testlerin yapılması <br>
+Kullanıcı geri bildirimlerinin toplanması <br>
+Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
+Bir sonraki sprint için plan yapılması<br>
 
 <h1>Uygulama Durumu</h1>
 <a href="#"><img src="polovoyahome1.png"</a>
