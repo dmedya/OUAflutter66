@@ -65,7 +65,8 @@ Hataların düzeltilmesi ve iyileştirmelerin yapılması <br>
 <h1>Testler ve Sprint İncelemesi</h1>
 Fonksiyonel testlerin yapılması <br>
 Kullanıcı geri bildirimlerinin toplanması <br>
-Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
+
+<h1>Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi</h1>
 Bir sonraki sprint için plan yapılması<br>
 
 <h1>Uygulama Durumu</h1>
