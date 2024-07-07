@@ -28,28 +28,28 @@ Hasip Tekin : Marketing , Developer
         <tbody>
             <tr>
                 <td><img src="" width="50" height="50"><span>Ceren Efe</span></td>
-                <td>Scrum Master</td>
+                <td>Product Owner , Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
             <tr>
                 <td><img src="medya.jpeg" width="50" height="50"><span>Medya Doran</span></td>
-                <td>Product Owner</td>
+                <td>Scrum Master , Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
             <tr>
                 <td><img src="" width="50" height="50"><span>Melisa Sadioğlu</span></td>
-                <td>Developer</td>
+                <td>DDesigner , Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
             <tr>
                 <td><img src="" width="50" height="50"><span>Hasip Tekin</span></td>
-                <td>Developer</td>
+                <td>Marketing , Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
