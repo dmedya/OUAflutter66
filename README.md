@@ -30,45 +30,45 @@
 
 <H2>Hedef Kitle</H2>
 
-<H2>Dil öğrenenler: </H3>
+<H2>Dil öğrenenler: </H2>
 Yabancı bir dilde pratik yapmak isteyenler. 
 Yerel kültürü doğrudan deneyimlemek isteyenler. 
 Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. 
 
-Rehberler: 
+<H2>Rehberler: </H2>
 Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. 
 Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. 
 Farklı kültürleri ve insanları tanımak isteyenler.
 Proje Yapılandırması ve Gereksinim Tanımlaması
 
-Sprint Notes
+<H3>Sprint Notes</H3>
 ---görsel ekle---
-Proje gereksinimlerini ve yapılandırmasını belirleme
+<H3>Proje gereksinimlerini ve yapılandırmasını belirleme</H3>
 Geliştirme ortamının kurulumu
 Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)
 Kullanıcı Arayüzü Tasarımı
 
-Giriş ve kayıt ekranlarının tasarlanması
+<H3>Giriş ve kayıt ekranlarının tasarlanması</H3>
 UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması
 Tasarımların onaylanması
 Kullanıcı Kayıt Sistemi Geliştirme
 
-Firebase veya benzeri bir arka uç hizmeti entegrasyonu
+<H3>Firebase veya benzeri bir arka uç hizmeti entegrasyonu</H3>
 Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi
 Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması
 Kullanıcı Giriş Sistemi Geliştirme
 
-Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi
+<H3>Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi</H3>
 Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması
 Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple)
 Kullanıcı Arayüzü ve Arka Uç Entegrasyonu
 
-Arayüz ve arka uç arasında veri alışverişinin sağlanması
+<H3>Arayüz ve arka uç arasında veri alışverişinin sağlanması</H3>
 Kullanıcı kayıt ve giriş süreçlerinin test edilmesi
 Hataların düzeltilmesi ve iyileştirmelerin yapılması
 Testler ve Sprint İncelemesi
 
-Fonksiyonel testlerin yapılması
+<H3>Fonksiyonel testlerin yapılması</H3>
 Kullanıcı geri bildirimlerinin toplanması
 Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi
 Bir sonraki sprint için plan yapılması
