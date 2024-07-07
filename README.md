@@ -21,7 +21,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><img src="" width="50" height="50"><span>Ceren Efe</span></td>
+                <td><img src="cerenefe.jpeg" width="50" height="50"><span>Ceren Efe</span></td>
                 <td>Product Owner , Developer</td>
                 <td>
                     <a href="https://www.linkedin.com/in/ceren-efe-/" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
