@@ -41,7 +41,7 @@ Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler.
 Farklı kültürleri ve insanları tanımak isteyenler.
 Proje Yapılandırması ve Gereksinim Tanımlaması
 
-<H3>Sprint Notes</H3>
+<H4>Sprint Notes</H4>
 <a href="#"><img src="planning.jpeg"</a>
 <H3>Proje gereksinimlerini ve yapılandırmasını belirleme</H3>
 Geliştirme ortamının kurulumu
