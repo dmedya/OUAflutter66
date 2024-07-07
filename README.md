@@ -80,6 +80,10 @@ Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. <br>
 Farklı kültürleri ve insanları tanımak isteyenler. <br>
 Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
+<H1>Toplantı ve Planlama</H1>
+Aşağıdaki linkten erişebilirsiniz planlama ve toplantı ekran görüntülerimize.
+
+
 <H1>Sprint Notes</H1>
 <img src="grup-toplantı-screenshot/planning.jpeg">
   
