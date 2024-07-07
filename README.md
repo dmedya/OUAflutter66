@@ -66,7 +66,7 @@ Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda
 <H3>2-) Dil Pratiği ve Kültürel Deneyim: </H3>Yabancı dilini geliştirmek isteyenler için, pratik yapma ve yerel kültürü tanıma fırsatı sunar. Rehberler, dil konusunda yetkin kişiler arasından seçilir.
 <H3>3-) Esnek Ücretlendirme:</H3> Rehberler, hizmetleri için belirledikleri ücretleri kendileri belirlerler. Ayrıca, ücretsiz rehberlik sunan gönüllüler de bulunabilir.
 <H3>4-) Seyahat Rotası Desteği:</H3> Proje, turistlerin seyahat rotalarını planlamalarına ve optimize etmelerine yardımcı olur. Rehberler, en iyi yerel mekanları ve aktiviteleri önerir.
-<H3>5-) Kullanıcı Geri Bildirimleri:</H3> Turistler ve rehberler, birbirleri hakkında geri bildirimde bulunabilirler. Bu, gelecekteki kullanıcılar için güvenilir rehberler ve kaliteli deneyimler seçmelerine yardımcı olur. </h4>h4>
+<H3>5-) Kullanıcı Geri Bildirimleri:</H3> Turistler ve rehberler, birbirleri hakkında geri bildirimde bulunabilirler. Bu, gelecekteki kullanıcılar için güvenilir rehberler ve kaliteli deneyimler seçmelerine yardımcı olur. </h4>
 
 <H1>Hedef Kitle</H1>
 <H2>Dil öğrenenler: </H2>
