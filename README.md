@@ -81,7 +81,7 @@ Farklı kültürleri ve insanları tanımak isteyenler. <br>
 Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
 <H1>Sprint Notes</H1>
-<img src="planning.jpeg">
+<img src="grup-toplantı-screenshot/planning.jpeg">
   
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
 Proje gereksinimlerini ve yapılandırmasını belirleme <br>
