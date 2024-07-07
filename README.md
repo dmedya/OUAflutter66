@@ -16,7 +16,7 @@
 
 <h1>Ürün Açıklaması</h1>
 
-<h4>Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.</h4>
+Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.
 
 <h1>Ürün Özellikleri</h1>
 
@@ -30,9 +30,9 @@
 
 <H1>Hedef Kitle</H1>
 <H2>Dil öğrenenler: </H2>
-<h4>Yabancı bir dilde pratik yapmak isteyenler. </h4>
-<h4></h4>Yerel kültürü doğrudan deneyimlemek isteyenler.</h4> 
-<h4></h4>Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. </h4>
+<h4>Yabancı bir dilde pratik yapmak isteyenler.
+Yerel kültürü doğrudan deneyimlemek isteyenler.
+Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. </h4>
 
 <H2>Rehberler: </H2>
 <h4>Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. </h4>
