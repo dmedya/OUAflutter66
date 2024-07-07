@@ -35,40 +35,40 @@ Yerel kültürü doğrudan deneyimlemek isteyenler.
 Yeni insanlarla tanışarak dil becerilerini geliştirmek isteyenler. </h4>
 
 <H2>Rehberler: </H2>
-<h4>Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. </h4>
-<h4>Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. </h4>
-<h4>Farklı kültürleri ve insanları tanımak isteyenler.</h4>
-<h4>Proje Yapılandırması ve Gereksinim Tanımlaması</h4>
+<h4>Yerel bilgi ve deneyimlerini paylaşmaktan hoşlananlar. 
+Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. 
+Farklı kültürleri ve insanları tanımak isteyenler.
+Proje Yapılandırması ve Gereksinim Tanımlaması</h4>
 
 <H1>Sprint Notes</H1>
 <a href="#"><img src="planning.jpeg"</a>
 <h2></h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2>
-<H4>Proje gereksinimlerini ve yapılandırmasını belirleme</H4>
-<h4>Geliştirme ortamının kurulumu</h4>
-<h4>Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)</h4>
+<H4>Proje gereksinimlerini ve yapılandırmasını belirleme
+Geliştirme ortamının kurulumu
+Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)</h4>
 <h2>Kullanıcı Arayüzü Tasarımı</h2>
-<H4>Giriş ve kayıt ekranlarının tasarlanması</H4>
-<h4>UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması</h4>
+<H4>Giriş ve kayıt ekranlarının tasarlanması
+UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması
 <h4>Tasarımların onaylanması</h4>
 </h1>Kullanıcı Kayıt Sistemi Geliştirme</h1>
-<H4>Firebase veya benzeri bir arka uç hizmeti entegrasyonu</H4>
-</h4>Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi</h4>
+<H4>Firebase veya benzeri bir arka uç hizmeti entegrasyonu
+</h4>Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi
 </h4>Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması</h4>
 <h1></h1>Kullanıcı Giriş Sistemi Geliştirme</h1>
-<H4>Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi</H4>
+<H4>Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi
 Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması
-Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple)
+Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple)</H4>
 <h1>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h1>
-<H4>Arayüz ve arka uç arasında veri alışverişinin sağlanması</H4>
-</h4>Kullanıcı kayıt ve giriş süreçlerinin test edilmesi</h4>
-</h4>Hataların düzeltilmesi ve iyileştirmelerin yapılması</h4>
+<H4>Arayüz ve arka uç arasında veri alışverişinin sağlanması
+Kullanıcı kayıt ve giriş süreçlerinin test edilmesi
+Hataların düzeltilmesi ve iyileştirmelerin yapılması</h4>
   
 <h1>Testler ve Sprint İncelemesi</h1>
 
-<H4>Fonksiyonel testlerin yapılması</H4>
-<h4>Kullanıcı geri bildirimlerinin toplanması</h4>
-<h4>Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi</h4>
-<h4>Bir sonraki sprint için plan yapılması</h4>
+<H4>Fonksiyonel testlerin yapılması
+Kullanıcı geri bildirimlerinin toplanması
+Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi
+Bir sonraki sprint için plan yapılması</h4>
 
 <h1>Uygulama Durumu</h1>
 <a href="#"><img src="polovoyahome1.png"</a>
