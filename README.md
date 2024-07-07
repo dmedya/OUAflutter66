@@ -42,7 +42,7 @@ Farklı kültürleri ve insanları tanımak isteyenler.
 Proje Yapılandırması ve Gereksinim Tanımlaması
 
 <H3>Sprint Notes</H3>
----görsel ekle---
+<a href="#"><img src="planning.jpeg"</a>
 <H3>Proje gereksinimlerini ve yapılandırmasını belirleme</H3>
 Geliştirme ortamının kurulumu
 Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)
