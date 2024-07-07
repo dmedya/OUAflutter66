@@ -24,7 +24,7 @@
                 <td><img src="" width="50" height="50"><span>Ceren Efe</span></td>
                 <td>Product Owner , Developer</td>
                 <td>
-                    <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
+                    <a href="https://www.linkedin.com/in/ceren-efe-/" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
             <tr>
