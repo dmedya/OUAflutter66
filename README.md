@@ -1,4 +1,4 @@
-<H3>Takım İsmi</H3>
+<H1>Takım İsmi</H1>
 <H2>Flutter 66</H2>
 
 <H3>Ekip ve Ürün Hakkında Bilgiler</H3>
