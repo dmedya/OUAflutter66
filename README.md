@@ -1,6 +1,6 @@
 
 <H1>Takım İsmi</H1>
-<H4>Flutter 66</H4>
+<H4>Flutter 66 text-shadow: 2px 2px 4px #000000;</H4>
 
 <H1>Ekip ve Ürün Hakkında Bilgiler</H1>
 <!DOCTYPE html>
