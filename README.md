@@ -6,7 +6,7 @@
 Ceren Efe : Product Owner , Developer <br>
 Medya Doran : Scrum Master , Developer <br>
 Melisa Sadioğlu : Designer , Developer <br>
-Hasip Tekin : Developer
+Hasip Tekin : Marketing , Developer
 
 
 <H1>Ürün İsmi</H1>
