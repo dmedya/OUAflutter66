@@ -3,11 +3,6 @@
 <H4>Flutter 66</H4>
 
 <H1>Ekip ve Ürün Hakkında Bilgiler</H1>
-<H2>Takım Elemanları</H2>
-Ceren Efe : Product Owner , Developer <br>
-Medya Doran : Scrum Master , Developer <br>
-Melisa Sadioğlu : Designer , Developer <br>
-Hasip Tekin : Marketing , Developer
 <!DOCTYPE html>
 <html lang="en">
 <head>
