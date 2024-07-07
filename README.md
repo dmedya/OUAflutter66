@@ -1,7 +1,7 @@
 <H1>Takım İsmi</H1>
 <H2>Flutter 66</H2>
 
-<H1>Ekip ve Ürün Hakkında Bilgiler</H1>
+<H5>Ekip ve Ürün Hakkında Bilgiler</H5>
 <H3>Takım Elemanları</H3>
 
 <H4>Ceren Efe: Product Owner,Developer </H4>
