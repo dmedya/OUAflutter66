@@ -78,7 +78,10 @@ Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İ
 
 Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğiz.
 
-<a href="#"><img src="polovoyahome1.png"</a> <br>
-<a href="#"><img src="polovoyahome2.png"</a> <br>
-<a href="#"><img src="polovoyalogin.png"</a> <br>
-<a href="#"><img src="polovoyaregister.png"</a> <br>
+<a href="#"><img src="polovoyahome1.png"</a> 
+
+<a href="#"><img src="polovoyahome2.png"</a> 
+
+<a href="#"><img src="polovoyalogin.png"</a> 
+
+<a href="#"><img src="polovoyaregister.png"</a> 
