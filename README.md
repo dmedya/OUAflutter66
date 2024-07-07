@@ -10,9 +10,9 @@
 <H5>Hasip Tekin: Developer</H5>
 
 
-<H4>Ürün İsmi</H4>
+<H2>Ürün İsmi</H2>
 
-<H2>Polovaya</H2>
+<H1>Polovaya</H1>
 
 <h3>Ürün Açıklaması</h3>
 
