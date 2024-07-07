@@ -67,8 +67,9 @@ Hataların düzeltilmesi ve iyileştirmelerin yapılması <br>
 Fonksiyonel testlerin yapılması <br>
 Kullanıcı geri bildirimlerinin toplanması <br>
 
-<h1>Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi</h1>
-Bir sonraki sprint için plan yapılması<br>
+<h1>Sprint retrospektifi:</h1>  
+İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
+Bir sonraki sprint için plan yapılması <br>
 
 <h1>Uygulama Durumu</h1>
 <a href="#"><img src="polovoyahome1.png"</a>
