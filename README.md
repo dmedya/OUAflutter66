@@ -11,7 +11,7 @@ Hasip Tekin : Marketing , Developer
 
 
 <H1>Ürün İsmi</H1>
-<h2></h2>Polovoya </h2>
+<h2>Polovoya </h2>
 
 <h1>Ürün Açıklaması</h1>
 Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.
