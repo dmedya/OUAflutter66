@@ -5,23 +5,23 @@
 <H2>Takım Elemanları</H2>
 
 <H4>Ceren Efe: Product Owner,Developer </H4>
-<H1>Medya Dora: Scrum Master,Developer</H1>
-<H1>Melisa Sadioğlu: Designer,Developer</H1>
-<H1>Hasip Tekin: Developer</H1>
+<H4>Medya Dora: Scrum Master,Developer</H4>
+<H4>Melisa Sadioğlu: Designer,Developer</H4>
+<H4>Hasip Tekin: Developer</H4>
 
 
 <H3>Ürün İsmi</H3>
 
 <H2>Polovaya</H2>
 
-Ürün Açıklaması
+<h3>Ürün Açıklaması</h3>
 
-Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.
+<h2>Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.</h2>
 
-Ürün Özellikleri
+<h3>Ürün Özellikleri</h3>
 
 
-1-) Rehber Seçimi: Turistler, bütçelerine ve konfor tercihlerine göre yerel rehberleri seçebilirler. Rehberlerin profilleri, dil becerileri ve uzmanlık alanları hakkında detaylı bilgi içerir.
+<H3>1-) <H2>Rehber Seçimi:</H2> Turistler, bütçelerine ve konfor tercihlerine göre yerel rehberleri seçebilirler. Rehberlerin profilleri, dil becerileri ve uzmanlık alanları hakkında detaylı bilgi içerir.</H3>
 2-) Dil Pratiği ve Kültürel Deneyim: Yabancı dilini geliştirmek isteyenler için, pratik yapma ve yerel kültürü tanıma fırsatı sunar. Rehberler, dil konusunda yetkin kişiler arasından seçilir.
 3-) Esnek Ücretlendirme: Rehberler, hizmetleri için belirledikleri ücretleri kendileri belirlerler. Ayrıca, ücretsiz rehberlik sunan gönüllüler de bulunabilir.
 4-) Seyahat Rotası Desteği: Proje, turistlerin seyahat rotalarını planlamalarına ve optimize etmelerine yardımcı olur. Rehberler, en iyi yerel mekanları ve aktiviteleri önerir.
