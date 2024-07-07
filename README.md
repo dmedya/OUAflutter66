@@ -37,7 +37,7 @@ Hasip Tekin : Marketing , Developer
                 <td><img src="medya.jpeg" width="50" height="50"><span>Medya Doran</span></td>
                 <td>Scrum Master , Developer</td>
                 <td>
-                    <a href="https://linkedin.com" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
+                    <a href="https://www.linkedin.com/in/medya-doran-378312183/" target="_blank"><img src="linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
             </tr>
             <tr>
