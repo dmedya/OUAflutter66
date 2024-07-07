@@ -35,7 +35,7 @@ Hasip Tekin : Marketing , Developer
                 </td>
             </tr>
             <tr>
-                <td><img src="medya.jpeg" alt="Medya Doran" weight:"20" height:"20"><span>Medya Doran</span></td>
+                <td><img src="medya.jpeg" alt="Medya Doran" weight:20 height:20 ><span>Medya Doran</span></td>
                 <td>Product Owner</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
