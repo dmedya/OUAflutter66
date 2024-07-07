@@ -16,7 +16,7 @@
 
 <h3>Ürün Açıklaması</h3>
 
-<h2>Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.</h2>
+<h4>Yabancı dilini geliştirmek isteyenler için, turist rehberi veya dil konusunda yetkin kişilerin, ücretsiz ya da belirledikleri bir ücret karşılığında turistlere rehberlik ederek seyahat bilgileri sunduğu bir proje geliştirdik. Bu proje ile turistler, bütçelerine veya konfor tercihlerine göre kendi rehberlerini seçebilirler. Aynı zamanda, bu proje sayesinde turistlerin seyahat rotalarına da destek sağlıyoruz.</h4>
 
 <h3>Ürün Özellikleri</h3>
 
@@ -26,7 +26,7 @@
 3-) Esnek Ücretlendirme: Rehberler, hizmetleri için belirledikleri ücretleri kendileri belirlerler. Ayrıca, ücretsiz rehberlik sunan gönüllüler de bulunabilir.
 4-) Seyahat Rotası Desteği: Proje, turistlerin seyahat rotalarını planlamalarına ve optimize etmelerine yardımcı olur. Rehberler, en iyi yerel mekanları ve aktiviteleri önerir.
 5-) Kullanıcı Geri Bildirimleri: Turistler ve rehberler, birbirleri hakkında geri bildirimde bulunabilirler. Bu, gelecekteki kullanıcılar için güvenilir rehberler ve kaliteli deneyimler seçmelerine yardımcı olur.
-
+</H3>
 
 Hedef Kitle
 
