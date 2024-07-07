@@ -1,20 +1,17 @@
-Takım İsmi
+<H3>Takım İsmi</H3>
+<H2>Flutter 66</H2>
 
-Flutter 66
-
-
-Ekip ve Ürün Hakkında Bilgiler
-
-Takım Elemanları
+<H3>Ekip ve Ürün Hakkında Bilgiler</H3>
+<H2>Takım Elemanları</H2>
 
 Ceren Efe: Product Owner
 Melisa Sadioğlu: Designer
 Hasip Tekin: developer
 Medya Dora: Scrum Master
 
-Ürün İsmi
+<H3>Ürün İsmi</H3>
 
-~~Polovaya ~~
+<H2>Polovaya</H2>
 
 Ürün Açıklaması
 
