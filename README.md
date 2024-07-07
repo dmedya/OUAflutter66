@@ -97,7 +97,7 @@ Giriş ve kayıt ekranlarının tasarlanması <br>
 UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması <br>
 Tasarımların onaylanması <br>
   
-</h2>Kullanıcı Kayıt Sistemi Geliştirme</h2>
+<h2>Kullanıcı Kayıt Sistemi Geliştirme</h2>
 Firebase veya benzeri bir arka uç hizmeti entegrasyonu <br>
 Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi <br>
 Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması <br>
