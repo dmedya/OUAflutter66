@@ -27,7 +27,7 @@ Hasip Tekin : Marketing , Developer
         </thead>
         <tbody>
             <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Ceren Efe"><span>Ceren Efe</span></td>
+                <td><img src="medya.jpeg" alt="Ceren Efe"><span>Ceren Efe</span></td>
                 <td>Scrum Master</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
