@@ -73,5 +73,8 @@ Kullanıcı geri bildirimlerinin toplanması
 Sprint retrospektifi: İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi
 Bir sonraki sprint için plan yapılması
 
---uygulama arayüzü koyulacak---
----uygulama durumu-----
+<h3>Uygulama Durumu</h3>
+<a href="#"><img src="polovoyahome1.png"</a>
+<a href="#"><img src="polovoyahome2.png"</a>
+<a href="#"><img src="polovoyalogin.png"</a>
+<a href="#"><img src="polovoyaregister.png"</a>
