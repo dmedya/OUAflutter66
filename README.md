@@ -80,4 +80,4 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 <img src="polovoyahome1.png" >
 <img src="polovoyahome2.png" >
 <img src="polovoyalogin.png" >
-<img src="polovoyaregister.png">
+<img src="register.png">
