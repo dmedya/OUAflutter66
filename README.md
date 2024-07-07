@@ -12,7 +12,7 @@
 
 <H2>Ürün İsmi</H2>
 
-<H1>Polovaya</H1>
+<H3>Polovaya</H3>
 
 <h3>Ürün Açıklaması</h3>
 
