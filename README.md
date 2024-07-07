@@ -36,7 +36,7 @@
             </tr>
             <tr>
                 <td><img src="" width="50" height="50"><span>Melisa Sadioğlu</span></td>
-                <td>DDesigner , Developer</td>
+                <td>Designer , Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="grup-toplantı-screenshot/linkedn.png" alt="LinkedIn" width="50" height="50"></a>
                 </td>
