@@ -81,7 +81,7 @@ Farklı kültürleri ve insanları tanımak isteyenler. <br>
 Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
 <H1>Toplantı ve Planlama</H1>
-Aşağıdaki linkten erişebilirsiniz planlama ve toplantı ekran görüntülerimize.
+ Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
  <a href="https://dmedya.github.io/oua.github.io/" target="_blank">Buraya Tıklayın</a>
 
 <H1>Sprint Notes</H1>
