@@ -27,7 +27,7 @@ Hasip Tekin : Marketing , Developer
         </thead>
         <tbody>
             <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Burak Taha Cevheroğlu"><span>Burak Taha Cevheroğlu</span></td>
+                <td><img src="https://via.placeholder.com/50" alt="Ceren Efe"><span>Ceren Efe</span></td>
                 <td>Scrum Master</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
@@ -35,32 +35,24 @@ Hasip Tekin : Marketing , Developer
                 </td>
             </tr>
             <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Arda Demirel"><span>Arda Demirel</span></td>
+                <td><img src="https://via.placeholder.com/50" alt="Medya Doran"><span>Medya Doran</span></td>
                 <td>Product Owner</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
                 </td>
             </tr>
             <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Dila Hazal Bilgin"><span>Dila Hazal Bilgin</span></td>
+                <td><img src="https://via.placeholder.com/50" alt="Melisa Sadioğlu"><span>Melisa Sadioğlu</span></td>
                 <td>Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
                 </td>
             </tr>
             <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Merve Ağaçayak"><span>Merve Ağaçayak</span></td>
+                <td><img src="https://via.placeholder.com/50" alt="Hasip Tekin"><span>Hasip Tekin</span></td>
                 <td>Developer</td>
                 <td>
                     <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
-                </td>
-            </tr>
-            <tr>
-                <td><img src="https://via.placeholder.com/50" alt="Onur Konuk"><span>Onur Konuk</span></td>
-                <td>Developer</td>
-                <td>
-                    <a href="https://linkedin.com" target="_blank"><img src="https://via.placeholder.com/20" alt="LinkedIn"></a>
-                    <a href="https://instagram.com" target="_blank"><img src="https://via.placeholder.com/20" alt="Instagram"></a>
                 </td>
             </tr>
         </tbody>
