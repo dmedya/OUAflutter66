@@ -21,7 +21,7 @@
 <h3>Ürün Özellikleri</h3>
 
 
-<H3>1-) <H2>Rehber Seçimi:</H2> Turistler, bütçelerine ve konfor tercihlerine göre yerel rehberleri seçebilirler. Rehberlerin profilleri, dil becerileri ve uzmanlık alanları hakkında detaylı bilgi içerir.</H3>
+<H3>1-)</H3>Rehber Seçimi: Turistler, bütçelerine ve konfor tercihlerine göre yerel rehberleri seçebilirler. Rehberlerin profilleri, dil becerileri ve uzmanlık alanları hakkında detaylı bilgi içerir.</H3>
 2-) Dil Pratiği ve Kültürel Deneyim: Yabancı dilini geliştirmek isteyenler için, pratik yapma ve yerel kültürü tanıma fırsatı sunar. Rehberler, dil konusunda yetkin kişiler arasından seçilir.
 3-) Esnek Ücretlendirme: Rehberler, hizmetleri için belirledikleri ücretleri kendileri belirlerler. Ayrıca, ücretsiz rehberlik sunan gönüllüler de bulunabilir.
 4-) Seyahat Rotası Desteği: Proje, turistlerin seyahat rotalarını planlamalarına ve optimize etmelerine yardımcı olur. Rehberler, en iyi yerel mekanları ve aktiviteleri önerir.
