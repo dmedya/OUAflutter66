@@ -38,36 +38,36 @@ Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 <H1>Sprint Notes</H1>
 <img src="planning.jpeg">
   
-<h1>Proje Yapılandırması ve Gereksinim Tanımlaması</h1> 
+<h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
 Proje gereksinimlerini ve yapılandırmasını belirleme <br>
 Geliştirme ortamının kurulumu <br>
 Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.) <br>
   
-<h1>Kullanıcı Arayüzü Tasarımı</h1>
+<h2>Kullanıcı Arayüzü Tasarımı</h2>
 Giriş ve kayıt ekranlarının tasarlanması <br>
 UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması <br>
 Tasarımların onaylanması <br>
   
-</h1>Kullanıcı Kayıt Sistemi Geliştirme</h1>
+</h2>Kullanıcı Kayıt Sistemi Geliştirme</h2>
 Firebase veya benzeri bir arka uç hizmeti entegrasyonu <br>
 Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi <br>
 Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması <br>
   
-<h1></h1>Kullanıcı Giriş Sistemi Geliştirme</h1>
+<h2></h1>Kullanıcı Giriş Sistemi Geliştirme</h2>
 Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi <br>
 Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması <br>
 Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple) <br>
   
-<h1>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h1>
+<h2>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h2>
 Arayüz ve arka uç arasında veri alışverişinin sağlanması <br>
 Kullanıcı kayıt ve giriş süreçlerinin test edilmesi <br>
 Hataların düzeltilmesi ve iyileştirmelerin yapılması <br>
   
-<h1>Testler ve Sprint İncelemesi</h1>
+<h2>Testler ve Sprint İncelemesi</h2>
 Fonksiyonel testlerin yapılması <br>
 Kullanıcı geri bildirimlerinin toplanması <br>
 
-<h1>Sprint retrospektifi:</h1>  
+<h2>Sprint retrospektifi:</h2>  
 İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
 Bir sonraki sprint için plan yapılması <br>
 
