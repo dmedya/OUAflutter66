@@ -80,13 +80,12 @@ Turistlere yerel alanlarda rehberlik yaparak kazanç elde etmek isteyenler. <br>
 Farklı kültürleri ve insanları tanımak isteyenler. <br>
 Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 
-<H1>Toplantı ve Planlama</H1>
- Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
- <a href="https://dmedya.github.io/oua.github.io/" target="_blank">Buraya Tıklayın</a>
+<H1>Sprint Board</H1>
+<img src="grup-toplantı-screenshot/planning.jpeg">
+Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
+<a href="https://dmedya.github.io/oua.github.io/" target="_blank">Buraya Tıklayın</a>
 
 <H1>Sprint Notes</H1>
-<img src="grup-toplantı-screenshot/planning.jpeg">
-  
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
 Proje gereksinimlerini ve yapılandırmasını belirleme <br>
 Geliştirme ortamının kurulumu <br>
