@@ -83,7 +83,7 @@ Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 <H1>Sprint Board</H1>
 <img src="grup-toplantı-screenshot/planning.jpeg">
 Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
-<a href="https://dmedya.github.io/oua.github.io/" target="_blank">Buraya Tıklayın</a>
+<a href="https://dmedya.github.io/oua.github.io/" target="_blank">Daily Scrum/a>
 
 <H1>Sprint Notes</H1>
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
