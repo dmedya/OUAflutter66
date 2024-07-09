@@ -85,6 +85,36 @@ Proje Yapılandırması ve Gereksinim Tanımlaması. <br>
 Linkten planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
 <a href="https://dmedya.github.io/oua.github.io/" target="_blank">Daily Scrum>
 
+<h1>Sprint 1 Hedefi:</h1> 
+<h2>100 puan</h2>
+
+<h1> Backlog (Beklemede)</h1>
+Ürün yükleme sisteminin eklenmesi - (16 puan) <br>
+
+<h1>Yapılacaklar</h1>
+UI formu oluşturma - (11 puan) <br>
+Ürün Detay Sayfası UI oluşturma - (16 puan) <br>
+Temel Kayıt Sayfası ekleme - (10 puan) <br>
+Giriş/Kayıt UI'si oluşturma - (16 puan) <br>
+Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan) <br>
+
+<h1>Yapılıyor</h1> 
+Ürünün altyapısını oluşturma - (26 puan) <br>
+Kayıt ve Giriş Sistemlerini ekleme - (16 puan) <br>
+
+<h1>Tamamlandı</h1>
+Takımla ürün fikirleri bulma - (10 puan) <br>
+Takımla takım fikirleri bulma - (10 puan) <br>
+Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan) <br>
+Marka renklerinin seçilmesi - (11 puan) <br>
+Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan) <br>
+Kullanıcı taraması için Ön Yüz oluşturma - (16 puan) <br>
+Giriş Sayfası oluşturma - (12 puan) <br>
+Kayıt Sayfası oluşturma - (12 puan) <br>
+Anasayfa oluşturma - (14 puan) <br>
+
+<h2>Tamamlanan görevlerin toplamı: 111 puan </h2>
+
 <H1>Sprint Notes</H1>
 <h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2> 
 Proje gereksinimlerini ve yapılandırmasını belirleme <br>
@@ -169,32 +199,4 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 <img src="polovoyalogin.png" >
 <img src="register.png">
 
-<h1>Sprint 1 Hedefi:</h1> 
-<h2>100 puan</h2>
 
-<h1> Backlog (Beklemede)</h1>
-Ürün yükleme sisteminin eklenmesi - (16 puan) <br>
-
-<h1>Yapılacaklar</h1>
-UI formu oluşturma - (11 puan) <br>
-Ürün Detay Sayfası UI oluşturma - (16 puan) <br>
-Temel Kayıt Sayfası ekleme - (10 puan) <br>
-Giriş/Kayıt UI'si oluşturma - (16 puan) <br>
-Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan) <br>
-
-<h1>Yapılıyor</h1> 
-Ürünün altyapısını oluşturma - (26 puan) <br>
-Kayıt ve Giriş Sistemlerini ekleme - (16 puan) <br>
-
-<h1>Tamamlandı</h1>
-Takımla ürün fikirleri bulma - (10 puan) <br>
-Takımla takım fikirleri bulma - (10 puan) <br>
-Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan) <br>
-Marka renklerinin seçilmesi - (11 puan) <br>
-Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan) <br>
-Kullanıcı taraması için Ön Yüz oluşturma - (16 puan) <br>
-Giriş Sayfası oluşturma - (12 puan) <br>
-Kayıt Sayfası oluşturma - (12 puan) <br>
-Anasayfa oluşturma - (14 puan) <br>
-
-<h2>Tamamlanan görevlerin toplamı: 111 puan </h2>
