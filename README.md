@@ -146,7 +146,7 @@ Bazı kullanıcılar, kayıt ve giriş işlemlerinin hızlandırılmasını ve d
 Kayıt ve giriş işlemlerinin hızlandırılması ve kullanıcı deneyiminin artırılması için optimizasyon çalışmaları yapılacak.<br>
 Sosyal medya giriş seçeneklerinin entegrasyonu hızlandırılacak ve daha fazla seçenek eklenecek.<br>
 
-<h1></h1>Bir Sonraki Sprint İçin Planlar</h1>
+<h1>Bir Sonraki Sprint İçin Planlar</h1>
 <h2>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h2>
 Arayüz ve arka uç arasında veri alışverişinin sağlanması tamamlanacak. <br>
 Kullanıcı kayıt ve giriş süreçlerinin test edilmesi sürecek. <br>
