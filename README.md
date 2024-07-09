@@ -168,3 +168,33 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 <img src="polovoyahome2.png" >
 <img src="polovoyalogin.png" >
 <img src="register.png">
+
+<h1>Sprint 1 Hedefi:</h1> 
+<h2>100 puan</h2>
+
+<h1> Backlog (Beklemede)</h1>
+Ürün yükleme sisteminin eklenmesi - (16 puan)
+
+<h1>Yapılacaklar</h1>
+UI formu oluşturma - (11 puan)
+Ürün Detay Sayfası UI oluşturma - (16 puan)
+Temel Kayıt Sayfası ekleme - (10 puan)
+Giriş/Kayıt UI'si oluşturma - (16 puan)
+Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan)
+
+<h1>Yapılıyor</h1>
+Ürünün altyapısını oluşturma - (26 puan)
+Kayıt ve Giriş Sistemlerini ekleme - (16 puan)
+
+<h1>Tamamlandı</h1>
+Takımla ürün fikirleri bulma - (10 puan)
+Takımla takım fikirleri bulma - (10 puan)
+Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan)
+Marka renklerinin seçilmesi - (11 puan)
+Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan)
+Kullanıcı taraması için Ön Yüz oluşturma - (16 puan)
+Giriş Sayfası oluşturma - (12 puan)
+Kayıt Sayfası oluşturma - (12 puan)
+Anasayfa oluşturma - (14 puan)
+
+<h2>Tamamlanan görevlerin toplamı: 111 puan </h2>
