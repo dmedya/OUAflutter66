@@ -118,6 +118,43 @@ Kullanıcı geri bildirimlerinin toplanması <br>
 <h2>Sprint retrospektifi:</h2>  
 İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
 Bir sonraki sprint için plan yapılması <br>
+<h1>Sprint Review</h1>
+Polovoya uygulamasının geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. Bu sprint'te, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Ayrıca, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası yapılma aşamasındadır.<br>
+
+<h2>Tamamlanan İşler</h2>
+<h2>Giriş Ekranı ve Anasayfa</h2>
+Kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedefleyen giriş ekranı ve anasayfa tamamlandı.<br>
+Kullanıcıların uygulamaya ilk girdiklerinde kolayca yönlendirilmelerini sağlayacak tasarımlar oluşturuldu ve uygulandı.<br>
+
+<h2>Kullanıcı Kayıt Sistemi Geliştirme</h2>
+Firebase entegrasyonu tamamlandı.<br>
+Kullanıcı kayıt formu ve doğrulama işlemleri geliştirildi.<br>
+Yeni kullanıcı hesaplarının oluşturulması ve veritabanında güvenli bir şekilde saklanması sağlandı.<br>
+
+<h2>Kullanıcı Giriş Sistemi Geliştirme</h2>
+Kullanıcı giriş formu ve doğrulama işlemleri geliştirildi.<br>
+Kullanıcı kimlik doğrulaması ve oturum yönetimi uygulandı.<br>
+Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple) planlandı ve entegrasyon aşamasına geçildi.<br>
+Geri Bildirim ve İyileştirme Alanları<br>
+
+<h1>Geri Bildirimler</h1>
+Kullanıcılar, giriş ekranının ve anasayfanın kullanıcı dostu ve sezgisel olduğunu belirtti.<br>
+Bazı kullanıcılar, kayıt ve giriş işlemlerinin hızlandırılmasını ve daha fazla sosyal medya entegrasyon seçeneği sunulmasını önerdi.<br>
+
+<h1>İyileştirme Alanları</h1>
+Kayıt ve giriş işlemlerinin hızlandırılması ve kullanıcı deneyiminin artırılması için optimizasyon çalışmaları yapılacak.<br>
+Sosyal medya giriş seçeneklerinin entegrasyonu hızlandırılacak ve daha fazla seçenek eklenecek.<br>
+
+<h1></h1>Bir Sonraki Sprint İçin Planlar</h1>
+<h2>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h2>
+Arayüz ve arka uç arasında veri alışverişinin sağlanması tamamlanacak. <br>
+Kullanıcı kayıt ve giriş süreçlerinin test edilmesi sürecek. <br>
+Hataların düzeltilmesi ve kullanıcı geri bildirimleri doğrultusunda iyileştirmelerin yapılması. <br>
+
+<h2>Yeni Özelliklerin Eklenmesi</h>
+Rehber seçim ekranı ve profil sayfalarının tasarımı ve geliştirilmesi. <br>
+Kullanıcı geri bildirim sistemi ve seyahat rotası desteği özelliklerinin entegrasyonu.
+Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz.<br>
 
 <h1>Uygulama Durumu</h1>
 Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
