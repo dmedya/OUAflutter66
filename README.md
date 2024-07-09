@@ -173,28 +173,28 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 <h2>100 puan</h2>
 
 <h1> Backlog (Beklemede)</h1>
-Ürün yükleme sisteminin eklenmesi - (16 puan)
+Ürün yükleme sisteminin eklenmesi - (16 puan) <br>
 
 <h1>Yapılacaklar</h1>
-UI formu oluşturma - (11 puan)
-Ürün Detay Sayfası UI oluşturma - (16 puan)
-Temel Kayıt Sayfası ekleme - (10 puan)
-Giriş/Kayıt UI'si oluşturma - (16 puan)
-Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan)
+UI formu oluşturma - (11 puan) <br>
+Ürün Detay Sayfası UI oluşturma - (16 puan) <br>
+Temel Kayıt Sayfası ekleme - (10 puan) <br>
+Giriş/Kayıt UI'si oluşturma - (16 puan) <br>
+Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan) <br>
 
-<h1>Yapılıyor</h1>
-Ürünün altyapısını oluşturma - (26 puan)
-Kayıt ve Giriş Sistemlerini ekleme - (16 puan)
+<h1>Yapılıyor</h1> 
+Ürünün altyapısını oluşturma - (26 puan) <br>
+Kayıt ve Giriş Sistemlerini ekleme - (16 puan) <br>
 
 <h1>Tamamlandı</h1>
-Takımla ürün fikirleri bulma - (10 puan)
-Takımla takım fikirleri bulma - (10 puan)
-Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan)
-Marka renklerinin seçilmesi - (11 puan)
-Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan)
-Kullanıcı taraması için Ön Yüz oluşturma - (16 puan)
-Giriş Sayfası oluşturma - (12 puan)
-Kayıt Sayfası oluşturma - (12 puan)
-Anasayfa oluşturma - (14 puan)
+Takımla ürün fikirleri bulma - (10 puan) <br>
+Takımla takım fikirleri bulma - (10 puan) <br>
+Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan) <br>
+Marka renklerinin seçilmesi - (11 puan) <br>
+Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan) <br>
+Kullanıcı taraması için Ön Yüz oluşturma - (16 puan) <br>
+Giriş Sayfası oluşturma - (12 puan) <br>
+Kayıt Sayfası oluşturma - (12 puan) <br>
+Anasayfa oluşturma - (14 puan) <br>
 
 <h2>Tamamlanan görevlerin toplamı: 111 puan </h2>
