@@ -117,7 +117,8 @@ Kullanıcı geri bildirimlerinin toplanması <br>
 
 <h2>Sprint retrospektifi:</h2>  
 İyi gidenlerin ve iyileştirilmesi gereken alanların gözden geçirilmesi <br>
-Bir sonraki sprint için plan yapılması <br>
+<h2>Bir sonraki sprint için plan yapılması </h2>
+
 <h1>Sprint Review</h1>
 Polovoya uygulamasının geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. Bu sprint'te, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak olan giriş ekranı ve anasayfa tamamlanmıştır. Ayrıca, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası yapılma aşamasındadır.<br>
 
