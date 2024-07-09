@@ -152,7 +152,7 @@ Arayüz ve arka uç arasında veri alışverişinin sağlanması tamamlanacak. <
 Kullanıcı kayıt ve giriş süreçlerinin test edilmesi sürecek. <br>
 Hataların düzeltilmesi ve kullanıcı geri bildirimleri doğrultusunda iyileştirmelerin yapılması. <br>
 
-<h2>Yeni Özelliklerin Eklenmesi</h>
+<h2>Yeni Özelliklerin Eklenmesi</h2>
 Rehber seçim ekranı ve profil sayfalarının tasarımı ve geliştirilmesi. <br>
 Kullanıcı geri bildirim sistemi ve seyahat rotası desteği özelliklerinin entegrasyonu.
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz.<br>
