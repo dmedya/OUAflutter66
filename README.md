@@ -297,3 +297,7 @@ Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İ
 Şu anda, uygulamanın geri kalan önemli bölümleri üzerinde yoğun bir şekilde çalışılmaktadır. Özellikle, kullanıcıların giriş yapmalarını ve yeni hesap oluşturmalarını sağlayacak olan giriş sayfası ve kayıt ol sayfası tamamlanma aşamasındadır. Bu sayfalar tamamlandığında, kullanıcılar uygulamaya güvenli bir şekilde giriş yapabilecek ve yeni hesap oluşturabileceklerdir.
 
 Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin yakın zamanda tamamlanarak kullanıcılara sunulması hedeflenmektedir. Güncellemelerle ilgili gelişmeleri sizinle paylaşmaya devam edeceğiz.
+
+<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-17 at 9.16.25 PM.jpeg">
+<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-16 at 7.27.22 PM (2).jpeg">
+<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-16 at 7.27.21 PM.jpeg">
