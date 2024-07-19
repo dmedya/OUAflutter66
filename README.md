@@ -287,6 +287,7 @@ Bir sonraki sprint için planlar yapıldı. <br>
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz. <br>
 
 <H2>SPRİNT BOARD</H2>
+Planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
 <a href="https://dmedya.github.io/ouaa.github.io/" target="_blank">Daily Scrum>
 
 <h2>Uygulama Durumu</h2>
