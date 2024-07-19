@@ -285,3 +285,8 @@ Sosyal medya giriş seçeneklerinin entegrasyonu hızlandırılacak ve daha fazl
 İyi gidenler ve iyileştirilmesi gereken alanlar gözden geçirildi. <br>
 Bir sonraki sprint için planlar yapıldı. <br>
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz. <br>
+
+<H2>SPRİNT BOARD</H2>
+
+
+<H2>DAİLY SCRUM</H2>
