@@ -201,3 +201,87 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 
 <H1>SPRİNT2</H1>
 
+<h2>Sprint 2 Hedefi:</h2>
+<h2>100 puan</h2>
+
+<h2>Backlog (Beklemede)</h2>
+Ürün yükleme sisteminin eklenmesi - (16 puan)
+<h2>Yapılacaklar</h2>
+UI formu oluşturma - (11 puan)
+Ürün Detay Sayfası UI oluşturma - (16 puan)
+Temel Kayıt Sayfası ekleme - (10 puan)
+Giriş/Kayıt UI'si oluşturma - (16 puan)
+Ürün Sayfası UI'si, Konum Sayfası UI'si ekleme - (16 puan)
+<h2>Yapılıyor</h2>
+Ürünün altyapısını oluşturma - (26 puan)
+Kayıt ve Giriş Sistemlerini ekleme - (16 puan)
+<h2>Tamamlandı</h2>
+Takımla ürün fikirleri bulma - (10 puan)
+Takımla takım fikirleri bulma - (10 puan)
+Scrum Sürecinde Rollerin Belirlenmesi (Ürün Sahibi, Scrum Uzmanı, Geliştirme Ekibi) - (10 puan)
+Marka renklerinin seçilmesi - (11 puan)
+Proje takvimi ve kaynak gereksinimlerinin belirlenmesi - (16 puan)
+Kullanıcı taraması için Ön Yüz oluşturma - (16 puan)
+Giriş Sayfası oluşturma - (12 puan)
+Kayıt Sayfası oluşturma - (12 puan)
+Anasayfa oluşturma - (14 puan)
+<h2>Tamamlanan görevlerin toplamı:</h2> 111 puan
+
+<h2>Sprint Notları</h2>
+<h2>Proje Yapılandırması ve Gereksinim Tanımlaması</h2>
+Proje gereksinimlerini ve yapılandırmasını belirleme
+Geliştirme ortamının kurulumu
+Depo ve proje yönetim araçlarının kurulumu (Git, Jira vb.)
+<h2>Kullanıcı Arayüzü Tasarımı</h2>
+Giriş ve kayıt ekranlarının tasarlanması
+UX/UI tasarım prensiplerine uygun mockup'ların oluşturulması
+Tasarımların onaylanması
+<h2>Kullanıcı Kayıt Sistemi Geliştirme</h2>
+Firebase veya benzeri bir arka uç hizmeti entegrasyonu
+Kullanıcı kayıt formunun ve doğrulamasının geliştirilmesi
+Yeni kullanıcı hesaplarının oluşturulması ve veritabanında saklanması
+<h2>Kullanıcı Giriş Sistemi Geliştirme</h2>
+Kullanıcı giriş formunun ve doğrulamasının geliştirilmesi
+Kullanıcı kimlik doğrulamasının ve oturum yönetiminin uygulanması
+Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple)
+<h2>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h2>
+Arayüz ve arka uç arasında veri alışverişinin sağlanması
+Kullanıcı kayıt ve giriş süreçlerinin test edilmesi
+Hataların düzeltilmesi ve iyileştirmelerin yapılması
+<h2>Sprint 2 İçin Planlar</h2>
+<h2>Kullanıcı Arayüzü ve Arka Uç Entegrasyonu</h2>
+Arayüz ve arka uç arasında veri alışverişinin sağlanması tamamlanacak.
+Kullanıcı kayıt ve giriş süreçlerinin test edilmesi sürecek.
+Hataların düzeltilmesi ve kullanıcı geri bildirimleri doğrultusunda iyileştirmelerin yapılması.
+<h2>Yeni Özelliklerin Eklenmesi</h2>
+Rehber seçim ekranı ve profil sayfalarının tasarımı ve geliştirilmesi.
+Kullanıcı geri bildirim sistemi ve seyahat rotası desteği özelliklerinin entegrasyonu.
+<h2>Ürün Durumu: Ekran Görüntüleri</h2>
+<h3>Giriş Ekranı ve Anasayfa:</h3> Kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedefleyen giriş ekranı ve anasayfa tamamlandı.
+<h3>Kullanıcı Kayıt Sistemi:</h3> Firebase entegrasyonu tamamlandı, kullanıcı kayıt formu ve doğrulama işlemleri geliştirildi.
+<h3>Kullanıcı Giriş Sistemi:</h3> Kullanıcı giriş formu ve doğrulama işlemleri geliştirildi, sosyal medya giriş seçeneklerinin entegrasyonu planlandı ve entegrasyon aşamasına geçildi.
+<h2>Sprint Review</h2>
+<h2>Tamamlanan İşler:</h2>
+<h2>Giriş Ekranı ve Anasayfa</h2>
+Kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedefleyen giriş ekranı ve anasayfa tamamlandı.
+Kullanıcı Kayıt Sistemi Geliştirme
+Firebase entegrasyonu tamamlandı.
+Kullanıcı kayıt formu ve doğrulama işlemleri geliştirildi.
+Yeni kullanıcı hesaplarının oluşturulması ve veritabanında güvenli bir şekilde saklanması sağlandı.
+<h2>Kullanıcı Giriş Sistemi Geliştirme</h2>
+Kullanıcı giriş formu ve doğrulama işlemleri geliştirildi.
+Kullanıcı kimlik doğrulaması ve oturum yönetimi uygulandı.
+Sosyal medya giriş seçeneklerinin entegrasyonu (Facebook, Google, Apple) planlandı ve entegrasyon aşamasına geçildi.
+<h2>Geri Bildirim ve İyileştirme Alanları</h2>
+<h2>Geri Bildirimler:</h2>
+
+Kullanıcılar, giriş ekranının ve anasayfanın kullanıcı dostu ve sezgisel olduğunu belirtti.
+Bazı kullanıcılar, kayıt ve giriş işlemlerinin hızlandırılmasını ve daha fazla sosyal medya entegrasyon seçeneği sunulmasını önerdi.
+<h2>İyileştirme Alanları:</h2>
+
+Kayıt ve giriş işlemlerinin hızlandırılması ve kullanıcı deneyiminin artırılması için optimizasyon çalışmaları yapılacak.
+Sosyal medya giriş seçeneklerinin entegrasyonu hızlandırılacak ve daha fazla seçenek eklenecek.
+<h2>Sprint Retrospektifi</h2>
+İyi gidenler ve iyileştirilmesi gereken alanlar gözden geçirildi.
+Bir sonraki sprint için planlar yapıldı.
+Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz.
