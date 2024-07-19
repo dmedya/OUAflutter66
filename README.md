@@ -287,9 +287,7 @@ Bir sonraki sprint için planlar yapıldı. <br>
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz. <br>
 
 <H2>SPRİNT BOARD</H2>
-
-
-<H2>DAİLY SCRUM</H2>
+<a href="https://dmedya.github.io/ouaa.github.io/" target="_blank">Daily Scrum>
 
 <h2>Uygulama Durumu</h2>
 Uygulamamızın geliştirilmesi sürecinde önemli aşamalar kaydedilmiştir. İlk olarak, kullanıcıların uygulamaya hızlı ve kolay bir şekilde erişimini sağlayacak giriş ekranı ve anasayfa tamamlanmıştır. Bu ekranlar, kullanıcı dostu bir arayüz ve sezgisel navigasyon sunarak, kullanıcıların ihtiyaçlarını karşılamayı hedeflemektedir.
