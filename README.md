@@ -287,6 +287,7 @@ Bir sonraki sprint için planlar yapıldı. <br>
 Sprint boyunca yapılan çalışmalar, uygulamanın planlandığı gibi ilerlediğini ve kullanıcıların ihtiyaçlarını karşılayacak şekilde geliştirildiğini göstermektedir. Gelecek sprintlerde de bu ilerlemenin devam edeceğine ve kullanıcı deneyiminin daha da iyileştirileceğine inanıyoruz. <br>
 
 <H2>SPRİNT BOARD</H2>
+<img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-20 at 1.30.18 AM.jpeg">
 Planlama ve toplantı ekran görüntülerimize ulaşabilirsiniz.
 <a href="https://dmedya.github.io/ouaa.github.io/" target="_blank">Daily Scrum>
 
