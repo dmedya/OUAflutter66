@@ -302,4 +302,4 @@ Geliştirme süreci planlandığı gibi ilerlemekte olup, tüm bu özelliklerin 
 <img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-16 at 7.27.22 PM (2).jpeg">
 <img src="grup-toplantı-screenshot/WhatsApp Image 2024-07-17 at 9.16.25 PM.jpeg">
 
-
+<h1>SPRİNT3</h1>
